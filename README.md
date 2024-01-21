@@ -21,29 +21,29 @@ The following **required** functionality is completed:
 ## App Brainstorming (Step 4)
 Favorite applications:
 - Instagram
-* Easy to view and share many different types of videos
-* Can easily make large group chats
-* Variety of response options to posts and stories
+  * Easy to view and share many different types of videos
+  * Can easily make large group chats
+  * Variety of response options to posts and stories
 - Discord
-* Can make large servers with a large variety of functionalities
-* Has many useful bots to assist with server management
+  * Can make large servers with a large variety of functionalities
+  * Has many useful bots to assist with server management
 - Find My
-* Live locations are very accurate
-* Has useful safety features such as being notified when someone reaches a certain location
+  * Live locations are very accurate
+  * Has useful safety features such as being notified when someone reaches a certain location
 - Lens Buddy
-* Allows users to take timed photos; useful when there is not a photographer present
-* Can select which photos to upload to main photo album
-* Users can customize how much time they want between photos, etc. (very customizable)
+  * Allows users to take timed photos; useful when there is not a photographer present
+  * Can select which photos to upload to main photo album
+  * Users can customize how much time they want between photos, etc. (very customizable)
 
 App idea: 
 Currently on Instagram, if a user makes a post, it appears on their followers' feeds (recommended posts to view). However, if a user wants to have a post appear on their profiles (usually for personal memories) but not in their followers' feeds, they would have to perform a trick where they archive the post immediately after posting, wait a few days, and then unarchive it. It would much easier if there were a built-in feature to do exactly this: have a different mode for posting that bridges the gap between archiving a post and publicly posting it. 
 
 ## Notes
 
-Describe any challenges encountered while building the app.
-It was definitely difficult to learn basic Swift because I had not used Xcode before. After completing the tutorial, I implemented the following features:
+Describe any challenges encountered while building the app. <br> <br>
+It was definitely difficult to start learning Swift because I had not used Xcode before. After completing the tutorial, I implemented the following features:
 - changed the colors and fonts of the text
-- added a button "change name color" that changes the color of my name at the top of the app to different shades of green
+- added a button "change name color" that changes the color of my name at the top of the app to different shades of green.
 It was also challenging to extend what I had learned to the new button, but it was a great opportunity to apply my knowledge.
 
 ## License
